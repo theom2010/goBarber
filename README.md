@@ -1,8 +1,4 @@
 <h1 align="center">
-	<img alt="GoStack" src=".github/GoStackLogo.png" width="200px" />
-</h1>
-<br>
-<h1 align="center">
 	<img alt="GoBarber" src=".github/GoBarber.png" width="200px" />
 </h1>
 <h3 align="center">
@@ -43,3 +39,6 @@
 - Rode `yarn react-native run-ios` ou `yarn react-native run-android`.
 
 
+<h1 align="center">
+	<img alt="GoStack" src=".github/GoStackLogo.png" width="200px" />
+</h1>
